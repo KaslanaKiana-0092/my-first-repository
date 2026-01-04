@@ -24,5 +24,8 @@
     <ClCompile Include="指標練習.c">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="指標與動態陣列.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
